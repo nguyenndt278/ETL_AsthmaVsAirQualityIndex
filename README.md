@@ -31,4 +31,4 @@ Get Daily AQL Value by County
   *o	Joined two tables by County to get the average AQI and average Number of ER Ashma Visits.
 
 ## Final thoughts:
---- Purpose of the project is to visualize a correlation, if any, between the air quality and numbers of visit for asthma patients in California. However, there is no obvious correlation being seen. Thus, more data will be needed to draw meaningful conclusions. 
+⋅⋅⋅ Purpose of the project is to visualize a correlation, if any, between the air quality and numbers of visit for asthma patients in California. However, there is no obvious correlation being seen. Thus, more data will be needed to draw meaningful conclusions. 
