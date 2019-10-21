@@ -2,7 +2,7 @@
 ### 1.	Extraction: Downloaded two csv files from two different sources:
 https://data.world/healthdata/asthma-ed-visit-rates-by-zip
 
-Get Number of Visits for Children group by COUNTY
+Get Number of Visits by COUNTY
 
 ![image](https://user-images.githubusercontent.com/53121073/67167121-b8d43800-f35b-11e9-93ca-ba89d1d68db3.png)
 
@@ -30,7 +30,7 @@ Get Daily AQL Value by County
     	Picked only needed columns: County, Number of Visits and Daily_AQI_VALUE from two dataframes
 
 ### 3.	Load: 
-*Use Relational Database: Join, load to Postgres.
+*Use Relational Database: Join, load to Postgres. Reason ralelatiobal database being used is because there is a relationship beetween two datasets.
 
   o	Loaded two clean dataframes to PgAdmin to two new tables named “ashma_updated” and “aqi_by_meann".
   
