@@ -34,7 +34,7 @@ Get Daily AQL Value by County
     	Picked only needed columns: County, Number of Visits and Daily_AQI_VALUE from two dataframes
 
 ### 3.	Load: 
-*Use Relational Database: Join, load to Postgres. Reason ralelatiobal database being used is because there is a relationship beetween two datasets.
+*Use Relational Database: Join, load to Postgres. Reason relational database being used is because there is a relationship beetween two datasets.
 
   o	Loaded two clean dataframes to PgAdmin to two new tables named “ashma_updated” and “aqi_by_meann".
   
